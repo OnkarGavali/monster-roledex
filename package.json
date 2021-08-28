@@ -2,7 +2,7 @@
   "name": "monsters-protfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OnkarGavali.github.io/monster-roledex",
+  "homepage": "https://onkargavali.github.io/monster-roledex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
